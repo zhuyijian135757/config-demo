@@ -4,9 +4,8 @@ server:
 proxy:
   loginUrl: http://a.yidong.com:7070/api/v1/user/login
 plats:
-  cookieMaps: {dataPin : dpc, quickBi: qbc}
-  platMaps: {dataPin : http://b.yidong.com:8088/, quickBi: http://b.yidong.com:8088/}
-  expireTimeMaps: {dataPin : 3600, quickBi: 3600}
+  cookieMaps: dddd
+  expireTimeMaps: 33333
 newland:
   loginUrl: http://ip:port/path
   authUrl: http://a.yidong.com:7070/api/v1/user-test/auth
